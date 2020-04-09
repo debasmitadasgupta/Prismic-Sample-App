@@ -1,0 +1,25 @@
+.login-box{
+    width: 50%;
+    height: 100%;
+    position: relative;
+    top: 100px;
+}
+
+.card{
+    border:0px;
+}
+
+.left-portion{
+    background-color: "#343a40"
+}
+
+@media (max-width:767px){
+    .login-box{
+        width: 100%;
+        /* margin-top:10%; */
+    }    
+}
+
+.logoArea {
+    background-color: #343a40;
+}

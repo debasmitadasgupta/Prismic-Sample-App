@@ -1,0 +1,9 @@
+npm install
+npm start
+
+
+Repo details
+
+https://ls-test.prismic.io/documents/
+debasmita.dasgupta@quantiphi.com
+Quantiphi@123
